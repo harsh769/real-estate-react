@@ -61,3 +61,10 @@ real-estate-react/
 ## 📜 License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
+![Image](https://github.com/user-attachments/assets/ef76453f-f3fd-422c-a368-31d1e9e3a485)
+
+![Image](https://github.com/user-attachments/assets/781933aa-139f-4f70-8392-87918f3c3297)
+![Image](https://github.com/user-attachments/assets/76ebd628-40e9-41a0-b66a-a901752729c3)
+![Image](https://github.com/user-attachments/assets/b0c56fae-2fba-4f2e-8c21-b24c0bc96a50)
+![Image](https://github.com/user-attachments/assets/728a2743-5d86-4106-97fb-2a78dab0bee0)
